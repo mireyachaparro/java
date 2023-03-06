@@ -1,0 +1,57 @@
+{
+  // Use IntelliSense para saber los atributos posibles.
+  // Mantenga el puntero para ver las descripciones de los existentes atributos.
+  // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Media",
+      "request": "launch",
+      "mainClass": "Media",
+      "projectName": "java_759c1da4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Suma",
+      "request": "launch",
+      "mainClass": "Suma",
+      "projectName": "java_759c1da4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Panaderia",
+      "request": "launch",
+      "mainClass": "Panaderia",
+      "projectName": "java_759c1da4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Mayor",
+      "request": "launch",
+      "mainClass": "Mayor",
+      "projectName": "java_759c1da4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Ventas",
+      "request": "launch",
+      "mainClass": "Ventas",
+      "projectName": "java_759c1da4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "java_759c1da4",
+      "console": "externalTerminal"
+    }
+  ]
+}
